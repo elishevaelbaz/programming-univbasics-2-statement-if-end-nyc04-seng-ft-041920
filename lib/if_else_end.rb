@@ -7,3 +7,5 @@ else
   puts "Odd!"
   
 end
+
+puts Time.now.to_s
