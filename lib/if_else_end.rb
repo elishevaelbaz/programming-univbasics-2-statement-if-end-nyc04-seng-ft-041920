@@ -8,4 +8,4 @@ else
   
 end
 
-puts Time.now.to_s
+puts Time.now
